@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Presupuesto IA</string>
+    <string name="title_activity_main">Presupuesto IA</string>
+    <string name="package_name">com.presupuesto.ia</string>
+    <string name="custom_url_scheme">com.presupuesto.ia</string>
+</resources>
